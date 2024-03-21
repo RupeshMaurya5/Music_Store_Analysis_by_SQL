@@ -11,7 +11,7 @@
 <h3> Purpose of Project </h3>
 This project utilizes SQL to analyze music store data, providing valuable insights into sales trends, customer behavior, inventory management, pricing strategies, and marketing campaign effectiveness.
 
-<h3> Question to Answer </h3>
+<h3> Questions to Answer </h3>
 1. Who is the senior most employee based on job title.<br>
 2. Which countries have the most Invoices.<br>
 3. What are top 3 values of total invoice.<br>
